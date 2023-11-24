@@ -1,0 +1,2 @@
+# NiceTry.py
+everething ok
